@@ -5,4 +5,4 @@
 + python, MySQL, c#
 + backend, frontend
 + hetfo, szerda, pentek
-+  
++  valalla
