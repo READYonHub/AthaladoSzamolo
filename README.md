@@ -6,3 +6,4 @@
 + backend, frontend
 + hetfo, szerda, pentek
 +  valalla
++ demó kész de csak véglegest töltök fel
